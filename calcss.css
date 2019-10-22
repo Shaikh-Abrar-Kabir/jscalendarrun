@@ -9,7 +9,8 @@ label {
 }
 input {
     
-    margin-top: 1%;;
+    margin-top: 1%;
+    width: 15%;
     
 }
 select {
@@ -45,11 +46,7 @@ button{
     
 }
 
- #textbox1  #textbox5{
-    
-    margin-top: 10%;
-    
-}
+
 
 
 #textbox9{
