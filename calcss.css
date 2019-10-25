@@ -4,7 +4,7 @@ label {
     clear:left;
     text-align:right;
     padding-right:5%;
-    margin-top: 1%;;
+    margin-top: 1%;
     
 }
 input {
@@ -110,7 +110,7 @@ body {
 
 button{
 
-    width:40%;
+    width:50%;
    
 }
 
@@ -124,7 +124,7 @@ button{
 
 #textbox10{
     
-      width:85%;
+      width:90%;
        margin-left: 5%;
        padding-left: 0%;
        padding-right: 0%
@@ -135,6 +135,12 @@ input {
     
     margin-top: 1%;
     width: 30%;
+    
+}
+
+label {
+    
+    width:40%;
     
 }
 
