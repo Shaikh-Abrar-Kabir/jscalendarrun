@@ -110,7 +110,7 @@ body {
 
 button{
 
-    width:35%;
+    width:40%;
    
 }
 
@@ -126,6 +126,8 @@ button{
     
       width:85%;
        margin-left: 5%;
+       padding-left: 0%;
+       padding-right: 0%
 
 }
 
