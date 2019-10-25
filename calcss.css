@@ -110,7 +110,7 @@ body {
 
 button{
 
-    width:30%;
+    width:35%;
    
 }
 
@@ -124,8 +124,8 @@ button{
 
 #textbox10{
     
-      width:80%;
-       margin-left: 10%;
+      width:85%;
+       margin-left: 5%;
 
 }
 
@@ -136,13 +136,12 @@ input {
     
 }
 
-/*
+
 
 body {
     
     margin-top: 20%;
-   font-size:4vw;
 }
-*/
+
 
 }
